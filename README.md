@@ -1,2 +1,2 @@
-# DataViz-Genius
-DataViz-Genius is a streamlined Visualizations &amp; Infographics generator for Your CSV Data with LLMs and Streamlit
+# LIDA-Demo-Streamlit-App
+Automatic Generation of Visualizations and Infographics with LLMs and Streamlit for your CSV data.
