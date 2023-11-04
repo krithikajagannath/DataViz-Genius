@@ -1,2 +1,2 @@
-# LIDA-Demo-Streamlit-App
-Automatic Generation of Visualizations and Infographics with LLMs and Streamlit for your CSV data.
+# DataViz-Genius: Streamlined Visualizations & Infographics for Your CSV Data with LLMs and Streamlit
+DataViz-Genius is your ultimate solution for effortlessly generating striking visualizations and infographics from any CSV dataset you provide. With the power of Language Model Models (LLMs) and Streamlit, we make data visualization a breeze. Not only can you transform data into insightful visuals, but now you can also ask questions that yield data-driven answers. What's more, our latest feature assists you in data cleaning and provides recommendations for a seamless data analysis experience.
